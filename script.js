@@ -1,5 +1,5 @@
 // Get the navbar element
-const navbar = document.querySelector('.navbar');
+const navbar = document.querySelector('.home-sorting');
 
 // Get the header height
 const headerHeight = document.querySelector('header').offsetHeight;
